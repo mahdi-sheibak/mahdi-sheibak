@@ -4,7 +4,7 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <br/>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Shouraya)
+![](https://komarev.com/ghpvc/?username=mahdi-zoraghi)
 
 </div>
 
