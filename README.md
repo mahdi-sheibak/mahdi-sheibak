@@ -23,14 +23,14 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <br/>   
 
 <a href="#!">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default" alt="mahdi-zr Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default" alt="mahdi zoraghi Github Stats" />
 </a>
 <br/>
 <br/>
 
-**Connect  with me:**
+**Follow Me On: **
 
-<a href="https://www.linkedin.com/in/shouraya-goyal-aa471b1a2"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
+<a href="https://www.linkedin.com/in/mahdi-zoraghi-152a73157/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
 <a href="https://www.facebook.com/shouraya.goyal.52"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a>
 <a href="https://dev.to/shouraya">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shouraya Goyal's DEV Profile" height="50" width="50">
