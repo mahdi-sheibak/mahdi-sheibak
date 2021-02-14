@@ -30,9 +30,10 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 </a>
 <!-- <a href="#!">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-zoraghi&show_icons=true" alt="mahdi zoraghi Github" />
-</a> -->
-<br/>
-<br/>
+</a> 
+-->
+<!-- <br/>
+<br/> -->
 
 ** Contact Me On: **
 
