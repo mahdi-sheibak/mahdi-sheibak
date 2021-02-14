@@ -6,6 +6,7 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 
 ![](https://komarev.com/ghpvc/?username=mahdi-zoraghi)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/rashad101?tab=repositories&q=&type=&language=javascript)
+[![JavaScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=blue)](https://github.com/rashad101?tab=repositories&q=&type=&language=javascript)
 </div>
 
 <br/>
