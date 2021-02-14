@@ -26,7 +26,10 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <a href="#!">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default" alt="mahdi zoraghi Github Stats" />
 </a>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashad101&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-zoraghi&show_icons=true)
+<a href="#!">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-zoraghi&show_icons=true" alt="mahdi zoraghi Github" />
+</a>
 <br/>
 <br/>
 
