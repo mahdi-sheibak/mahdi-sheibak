@@ -30,7 +30,7 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <a href="#!"><img align="center"                                                                                                      
        src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  
        alt="mahdi zoraghi Github Stats"
-        height="250" width="400"/></a>
+        height="500" width="500"/></a>
 
 <br />
 
