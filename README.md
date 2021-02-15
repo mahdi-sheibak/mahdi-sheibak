@@ -35,11 +35,13 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <a href="https://twitter.com/mahdi_zoraghi"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/twitter-icon.png" alt="mahdi zoraghi twitter profile" width="50" height="50"></a>
 
 
-<style>
+<html>
+ <style>
  .row{
   display:flex;
  }
 </style>
+</html>
 
 <!-- <a href=""><img src="" width="50" height="50"></a> -->
 
