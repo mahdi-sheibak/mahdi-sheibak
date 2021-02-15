@@ -40,5 +40,4 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 </div>
 
 <!-- <a href=""><img src="" width="50" height="50"></a> -->
-* [Animate.css](https://raw.githubusercontent.com/mahdi-zoraghi/mahdi-zoraghi/main/style.css)
 <link rel="stylesheet" href="https://raw.githubusercontent.com/mahdi-zoraghi/mahdi-zoraghi/main/style.css" />
