@@ -26,7 +26,7 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <br/>
 <br/>
 
-<div style='display:flex;'>
+<div class="row">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  alt="mahdi zoraghi Github Stats"/>
  <div>
    Contact Me On:
@@ -40,4 +40,4 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 </div>
 
 <!-- <a href=""><img src="" width="50" height="50"></a> -->
-
+* [Animate.css](https://raw.githubusercontent.com/mahdi-zoraghi/mahdi-zoraghi/main/style.css)
