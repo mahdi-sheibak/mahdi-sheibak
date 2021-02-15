@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/). I am a Front End developer 🚀 from Iran, exploring some new technologies everyday. I am a creative guy looking to design some great products.
+My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/). I am a Front End developer 🚀 from Iran, exploring some new technologies everyday. 
+I am a creative guy looking to design some great products.
 <br/>
 <br/>
 <div align="center">
