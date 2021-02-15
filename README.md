@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://raw.githubusercontent.com/mahdi-zoraghi/mahdi-zoraghi/main/style.css" />
 ## Hi there 👋
 My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/). I am a Front End developer 🚀 from Iran, exploring some new technologies everyday. I am a creative guy looking to design some great products.
 <br/>
@@ -39,5 +38,6 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 
  </div>
 </div>
+<link rel="stylesheet" href="https://raw.githubusercontent.com/mahdi-zoraghi/mahdi-zoraghi/main/style.css" />
 
 <!-- <a href=""><img src="" width="50" height="50"></a> -->
