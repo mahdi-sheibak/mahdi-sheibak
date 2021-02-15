@@ -26,7 +26,8 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <br/>   
 
 <a href="#!">
-  <img align="center"                                                                                                            |  Hi I am mahdi
+  <img align="center" 
+       height="250" width="400"                                                                                                  |  Hi I am mahdi
        src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  |   Whats up? 
        alt="mahdi zoraghi Github Stats" />                                                                                       |
 </a>
