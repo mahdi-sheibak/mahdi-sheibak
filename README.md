@@ -15,8 +15,7 @@ I am a creative guy looking to design some great products.
 ***
 
 <br/>
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
-<img align="center" height="250" width="400" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  alt="mahdi zoraghi Github Stats"/>
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 **Here's more about me:**
 
