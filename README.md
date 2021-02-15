@@ -26,8 +26,11 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <br/>   
 
 <a href="#!">
-  <img align="center" style="width:50%;height:50%" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default" alt="mahdi zoraghi Github Stats" />
+  <img align="center"                                                                                                            |  Hi I am mahdi
+       src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  |   Whats up? 
+       alt="mahdi zoraghi Github Stats" />                                                                                       |
 </a>
+
 
 ** Contact Me On: **
 
@@ -39,3 +42,4 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <a href="https://www.facebook.com/mahdi.zoraghi.3/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50" height="50"></a>
 <a href="https://twitter.com/mahdi_zoraghi"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/twitter-icon.png" width="50" height="50"></a>
 <!-- <a href=""><img src="" width="50" height="50"></a> -->
+
