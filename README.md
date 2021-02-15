@@ -32,9 +32,8 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <a href="https://stackoverflow.com/users/14837115/mahdi-zoraghi"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/stackoverflow-icon.png" alt="mahdi zoraghi stackoverflow profile" height="50" width="50"></a>
 <a href="https://www.instagram.com/mahdi_zoraghi/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" alt="mahdi zoraghi instagram profile" height="50" width="50"></a>
 <a href="https://www.facebook.com/mahdi.zoraghi.3/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" alt="mahdi zoraghi facebook profile" width="50" height="50"></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  alt="mahdi zoraghi Github Stats"/>
+<a href="https://twitter.com/mahdi_zoraghi"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/twitter-icon.png" alt="mahdi zoraghi twitter profile" width="50" height="50"></a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  alt="mahdi zoraghi Github Stats"/>
 
-<a href="https://twitter.com/mahdi_zoraghi"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/twitter-icon.png" alt="mahdi zoraghi twitter profile" width="50" height="50"></a>
 
 
 
