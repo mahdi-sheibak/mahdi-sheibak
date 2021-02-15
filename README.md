@@ -27,19 +27,16 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <br/>
 <!-- <br/>   --> 
 
-<a href="#!">
-  <img align="center"                                                                                                      
+<a href="#!"><img align="center"                                                                                                      
        src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  
-       alt="mahdi zoraghi Github Stats" />                                                                                     
-</a>
+       alt="mahdi zoraghi Github Stats"
+        height="250" width="400"/></a>
 
 <br />
 
 ## Contact Me On:
 
 <a href="https://www.linkedin.com/in/mahdi-zoraghi-152a73157/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" alt="mahdi zoraghi linkedin profile" width="50" height="50"></a>
-
-
 <a href="https://stackoverflow.com/users/14837115/mahdi-zoraghi"><img src="https://raw.githubusercontent.com/aritraroy/social-icons/master/stackoverflow-icon.png" alt="mahdi zoraghi stackoverflow profile" height="50" width="50"></a>
 <a href="https://www.instagram.com/mahdi_zoraghi/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" alt="mahdi zoraghi instagram profile" height="50" width="50"></a>
 <a href="https://www.facebook.com/mahdi.zoraghi.3/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" alt="mahdi zoraghi facebook profile" width="50" height="50"></a>
