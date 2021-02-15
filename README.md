@@ -27,6 +27,17 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  alt="mahdi zoraghi Github Stats"/>
 
+
+**Here's more about me:**
+
+- 🔭 I’m currently working on Front End Web Development.
+- 🌱 I’m currently NextJS.
+- 🌐 I'm increasing my expertise in Typescript.
+- 💬 Ask me about Anything related to web technologies.
+- 📫 How to reach me: mahdi.zoraghi.sheibak@gmail.com
+
+<br />
+
 ## Contact Me On:
 
 <a href="https://www.linkedin.com/in/mahdi-zoraghi-152a73157/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" alt="mahdi zoraghi linkedin profile" width="50" height="50"></a>
