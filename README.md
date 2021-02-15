@@ -25,11 +25,8 @@ My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/)
 - 📫 How to reach me: mahdi.zoraghi.sheibak@gmail.com
 <br/>
 <br/>
-<!-- <br/>   --> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  alt="mahdi zoraghi Github Stats"/>
 
-<img align="center"                                                                                                      
-       src="https://github-readme-stats.vercel.app/api?username=mahdi-zoraghi&show_icons=true&count_private=true&theme=default"  
-       alt="mahdi zoraghi Github Stats"/></a>
 ## Contact Me On:
 
 <a href="https://www.linkedin.com/in/mahdi-zoraghi-152a73157/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" alt="mahdi zoraghi linkedin profile" width="50" height="50"></a>
