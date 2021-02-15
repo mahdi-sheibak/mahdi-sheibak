@@ -1,4 +1,4 @@
-# Hi there 👋 (Portfolio [hree](https://mahdi-zoraghi.github.io/))
+# Hi there 👋 (Personal Portfolio [here](https://mahdi-zoraghi.github.io/))
 My name is [Mahdi zoraghi](https://www.linkedin.com/in/mahdi-zoraghi-152a73157/). I am a Front End developer 🚀 from Iran, exploring some new technologies everyday. 
 I am a creative guy looking to design some great products.
 <br/>
