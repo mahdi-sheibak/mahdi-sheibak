@@ -21,7 +21,7 @@ I am a creative guy looking to design some great products.
 
 - 🔭 I’m currently working on Front End Web Development.
 - 🌱I’m currently learning NextJS.
-- 🌐 I'm increasing my expertise in Typescript.
+- 🌐 I'm increasing my expertise in Webpack.
 - 💬 Ask me about Anything related to web technologies.
 - 📫 How to reach me: mahdi.zoraghi.sheibak@gmail.com
 <br/>
