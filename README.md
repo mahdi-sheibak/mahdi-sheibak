@@ -6,10 +6,8 @@ I am a creative guy looking to design some great products.
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=mahdi-zoraghi)
-<!-- [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/mahdi-zoraghi?tab=repositories&q=&type=&language=javascript)
- -->
-<!-- [![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=blue)](https://github.com/mahdi-zoraghi?tab=repositories&q=&type=&language=typescript)
- -->
+[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/mahdi-zoraghi?tab=repositories&q=&type=&language=javascript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=blue)](https://github.com/mahdi-zoraghi?tab=repositories&q=&type=&language=typescript)
 </div>
 
 ***
