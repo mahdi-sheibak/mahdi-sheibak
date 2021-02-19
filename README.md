@@ -6,7 +6,9 @@ I am a creative guy looking to design some great products.
 <div align="center">
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/mahdi-zoraghi?tab=repositories&q=&type=&language=javascript)
+<img width="200" />
 ![](https://komarev.com/ghpvc/?username=mahdi-zoraghi)
+<img width="200" />
 [![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=blue)](https://github.com/mahdi-zoraghi?tab=repositories&q=&type=&language=typescript)
 </div>
 
