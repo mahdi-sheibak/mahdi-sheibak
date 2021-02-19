@@ -9,7 +9,7 @@ I am a creative guy looking to design some great products.
 <img width="200" />
 ![](https://komarev.com/ghpvc/?username=mahdi-zoraghi)
 <img width="200" />
-[![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=blue)](https://github.com/mahdi-zoraghi?tab=repositories&q=&type=&language=typescript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=blue)](https://github.com/mahdi-zoraghi?tab=repositories&q=&type=&language=typescript&color=blue)
 </div>
 
 ***
