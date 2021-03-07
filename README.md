@@ -20,7 +20,7 @@ I am a creative guy looking to design some great products.
 **Here's more about me:**
 
 - 🔭 I’m currently working on Front End Web Development.
-- 🌱I’m currently learning NextJS.
+- 🌱I’m currently learning Testing in ReactJS(Jest & Enzyme).
 - 🌐 I'm increasing my expertise in Front End.
 - 💬 Ask me about Anything related to web technologies.
 - 📫 How to reach me: mahdi.zoraghi.sheibak@gmail.com
